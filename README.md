@@ -28,4 +28,4 @@ This repository contains code for building a deep learning model to classify ima
 
 11- Saving Model: The trained model is saved for future use.
 
-## For detailed implementation and usage instructions, please refer to the code comments and documentation within the respective files.
+#### For detailed implementation and usage instructions, please refer to the code comments and documentation within the respective files.
