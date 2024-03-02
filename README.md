@@ -24,8 +24,8 @@ Plotting Performance: Training metrics such as loss and accuracy are plotted for
 
 Evaluation: The model is evaluated on the test set using metrics like precision, recall, and accuracy.
 
-Testing: A sample image is tested to demonstrate the model's prediction capability.
+> Testing: A sample image is tested to demonstrate the model's prediction capability.
 
-Saving Model: The trained model is saved for future use.
+> Saving Model: The trained model is saved for future use.
 
 For detailed implementation and usage instructions, please refer to the code comments and documentation within the respective files.
